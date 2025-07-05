@@ -37,7 +37,7 @@ This analysis focuses on electric vehicle data across various time periods and l
 
 ## Project Insight
 
--bSteady increase in EV sales across most regions.
+- Steady increase in EV sales across most regions.
 
 - A few manufacturers dominate the EV market share.
 
